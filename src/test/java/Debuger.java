@@ -17,6 +17,8 @@ public class Debuger {
         public static String contactsString(String s1, String s2){
             System.out.println("ContactsString");
             System.out.println("-----------qfqewf-----------------");
+            System.out.println("-------------------------123213--111-");
+            System.out.println("privet");
         return s1+s2;
     }
 
